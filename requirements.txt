@@ -1,0 +1,6 @@
+llama-index==0.8.27
+modal
+python-rapidjson==1.10
+clarifai==9.8.0
+clarifai-grpc==9.8.0
+streamlit
