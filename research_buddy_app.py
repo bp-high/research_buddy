@@ -292,5 +292,5 @@ if st.session_state.vector_store is not None:
                 else:
                     response = f"This query cannot be processed as it has been detected to be {reason}"
                     st.write(response)
-                    message = {"role": "assistant", "content": response.response}
+                    message = {"role": "assistant", "content": response}
                     st.session_state.messages.append(message)
