@@ -4,6 +4,10 @@ A research buddy which helps you asks questions on certain research papers, get 
 * Team:- Bhavish Pahwa :surfing_man: ([GitHub](https://github.com/bp-high)) ([LinkedIn](https://www.linkedin.com/in/bhavishpahwa/))
 
 * Video:- https://www.youtube.com/watch?v=c3Ae7DBuE-U
+  
+* Streamlit Community Cloud:- https://gpt-research-buddy.streamlit.app/
+
+* Most Updated versions can be found on HuggingFace Spaces:- https://huggingface.co/spaces/bpHigh/AI-Research-Buddy
 
 * System Design
 
