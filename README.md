@@ -18,3 +18,18 @@ A research buddy which helps you asks questions on certain research papers, get 
   - Frameworks:-  Streamlit, LLamaIndex, Langchain(for integration with ClarifAI), 
   - Models:- GPT-3.5-turbo, OpenAI Embeddings, Nougat Transformer(https://facebookresearch.github.io/nougat/) and  ClarifAI multilingual moderation model
 
+Usage Videos
+
+
+
+https://github.com/bp-high/research_buddy/assets/53102161/da42b75f-e94c-4516-bddc-81b786b75b0f
+
+
+
+
+https://github.com/bp-high/research_buddy/assets/53102161/c0661ee2-2de4-4932-b1ab-37447fb1a448
+
+
+
+https://github.com/bp-high/research_buddy/assets/53102161/8d5e51fb-91c7-46e1-86d6-d7a36377285a
+
