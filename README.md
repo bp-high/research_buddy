@@ -1,4 +1,4 @@
-ℹ️: This App has been currently disabled as I am out of the credits for LLM model vendors. Also I am working out on a better way to extract insights from research papers and Scientific Q&A, will restart this in some time.
+ℹ️: This App has been currently disabled as I am currently out of the credits for LLM model vendors. Also I am working out on a better way to extract insights from research papers and Scientific Q&A, will restart this in some time.
 # Research Buddy
 A research buddy which helps you asks questions on certain research papers, get insights on top research papers.
 
