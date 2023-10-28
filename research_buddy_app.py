@@ -54,7 +54,7 @@ def initialize_session_state():
 
 initialize_session_state()
 
-st.write("This App has been currently disabled as I am out of the credits for LLM model vendors. Also I am working out on a better way to extract insights from research papers and Scientific Q&A, will restart this in some time.")
+# st.write("This App has been currently disabled as I am out of the credits for LLM model vendors. Also I am working out on a better way to extract insights from research papers and Scientific Q&A, will restart this in some time.")
 # Uncomment the below code if you are trying to build something similar to my app
 def get_paper_content(url: str) -> str:
     with st.spinner(text="Using Nougat(https://facebookresearch.github.io/nougat/) to read the paper contents and get the markdown representation of the paper"):
