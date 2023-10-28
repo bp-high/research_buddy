@@ -120,11 +120,11 @@ def generate_insights():
 
             retriever = VectorIndexRetriever(
                 index=index,
-                similarity_top_k=4,
+                similarity_top_k=3,
             )
             # configure response synthesizer
             response_synthesizer = get_response_synthesizer(
-                response_mode="tree_summarize", service_context=service_context
+                response_mode="simple_summarize", service_context=service_context
             )
 
             # assemble query engine
