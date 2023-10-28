@@ -101,7 +101,7 @@ def generate_insights():
             LLM_USER_ID = 'openai'
             LLM_APP_ID = 'chat-completion'
             # Change these to whatever model and text URL you want to use
-            LLM_MODEL_ID = 'GPT-3_5-turbo'
+            LLM_MODEL_ID = 'GPT-4'
             llm = Clarifai(pat=CLARIFAI_PAT, user_id=LLM_USER_ID, app_id=LLM_APP_ID, model_id=LLM_MODEL_ID)
 
             USER_ID = 'openai'
