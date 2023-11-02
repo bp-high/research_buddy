@@ -120,7 +120,7 @@ def generate_insights():
 
             retriever = VectorIndexRetriever(
                 index=index,
-                similarity_top_k=3,
+                similarity_top_k=2,
             )
             # configure response synthesizer
             response_synthesizer = get_response_synthesizer(
