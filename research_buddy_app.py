@@ -133,7 +133,7 @@ def generate_insights():
                 response_synthesizer=response_synthesizer,
             )
 
-            response_key_insights = query_engine.query("Generate core crux insights, contributions and results of the paper as Key Topics and thier content in markdown format where each Key Topic is in bold as a heading followed by its content in bullets list form")
+            response_key_insights = query_engine.query("Generate core crux insights, contributions and results of the paper as Key Topics and thier content in markdown format where each Key Topic is in bold and has a markdown heading format followed by its content in bullets list form")
 
         except Exception as e:
             print(str(e))
