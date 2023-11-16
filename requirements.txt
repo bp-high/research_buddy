@@ -1,3 +1,4 @@
+openai==0.27.4
 llama-index==0.8.27
 modal==0.52.3521
 python-rapidjson==1.10
